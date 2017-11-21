@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="font_small_12">12sp</dimen>
+    <dimen name="font_normal_14">14sp</dimen>
+    <dimen name="font_normal_16">16sp</dimen>
+    <dimen name="font_medium_20">20sp</dimen>
+    <dimen name="font_medium_24">24sp</dimen>
+    <dimen name="font_medium_34">34sp</dimen>
+    <dimen name="font_large_45">45sp</dimen>
+    <dimen name="font_larger_56">56sp</dimen>
+    <dimen name="font_largest_112">112sp</dimen>
+
+    <!-- Sizes-->
+
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+    <dimen name="size_huge_112">112dp</dimen>
+    <dimen name="size_line_thickness">1dp</dimen>
+    <dimen name="size_profile_photo_240">240dp</dimen>
+    <dimen name="size_placeholder_icon_90">90dp</dimen>
+    <dimen name="size_avatar">60dp</dimen>
+
+    <!-- Spaces -->
+
+    <dimen name="space_small_8">8dp</dimen>
+    <dimen name="space_normal_16">16dp</dimen>
+    <dimen name="space_medial_24">24dp</dimen>
+    <dimen name="space_medium_32">32dp</dimen>
+    <dimen name="space_large_56">56dp</dimen>
+    <dimen name="space_largest_72">72dp</dimen>
+</resources>

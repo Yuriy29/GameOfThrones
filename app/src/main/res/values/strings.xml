@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameOfThrones</string>
+    <string name="email">dopayura@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="house.item1">Starks</string>
+    <string name="house.item2">Lannister</string>
+    <string name="house.item3">Tangaryer</string>
+</resources>
